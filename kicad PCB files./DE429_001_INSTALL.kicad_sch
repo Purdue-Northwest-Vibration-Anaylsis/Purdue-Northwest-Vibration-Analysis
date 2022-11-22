@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0a028f90-4c05-41ee-9610-befce38f2dac)
+
+  (paper "USLedger")
+
+  (title_block
+    (title "OPEN VIBRATION CIRCUIT SCHEMATIC LAYOUT")
+    (date "10-24-2022")
+    (rev "A")
+    (company "COMPANY: NSE")
+    (comment 1 "CHECKED: AD")
+    (comment 2 "REVIEWED: ZL")
+    (comment 3 "DRAFTED: DM")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
